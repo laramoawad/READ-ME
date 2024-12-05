@@ -1,1 +1,2 @@
-# READ-ME
+
+# In this project I used python for data cleaning and data analysis purposes using different libraries such as NumPy Pandas, Matplotlib and Seaborn.
